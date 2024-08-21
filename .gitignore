@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 .drizzle.config.js
-
+.env.local
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
